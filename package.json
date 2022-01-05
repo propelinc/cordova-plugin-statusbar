@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-statusbar",
+  "name": "cordova-statusbar-legacy",
   "version": "3.0.1-dev",
   "description": "Cordova StatusBar Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-statusbar",
+    "id": "cordova-statusbar-legacy",
     "platforms": [
       "android",
       "ios",
